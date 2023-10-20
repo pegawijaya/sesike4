@@ -1,0 +1,11 @@
+{
+  "name": "sesi-ke-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sesi4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
